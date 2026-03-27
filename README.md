@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<a href="YOUR_VIDEO_LINK">
+<a href="https://drive.google.com/file/d/1xDqKfMyT3UUMhIONHYWXQ4dvlkph7M6v/view?usp=drive_link">
 <img src="Cybercore/Cybercore.png" width="600">
 </a>
 
@@ -53,7 +53,7 @@ This project is licensed under the MIT License.
 </p>
 
 <p align="center">
-<a href="YOUR_VIDEO_LINK">
+<a href="https://drive.google.com/file/d/1xDqKfMyT3UUMhIONHYWXQ4dvlkph7M6v/view?usp=drive_link">
 <img src="Cybercore/Cybercore.png" width="600">
 </a>
 </p>
