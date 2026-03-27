@@ -16,10 +16,9 @@ A cyberpunk-style procedural scene created in Blender using Geometry Nodes and S
 
 This project is a Blender scene designed to create a cybercore / cyberpunk visual style.
 
-It uses Geometry Nodes and shader techniques to generate futuristic lighting patterns and abstract digital visuals.
+It uses Geometry Nodes and Shader Nodes to generate futuristic lighting patterns and abstract digital visuals.
 
-The scene can be freely modified and used for learning Blender node workflows or creating similar visual styles.
-
+The scene can be freely modified and used for learning Blender node workflows or for creating similar visual styles.
 # Software Requirement
 
 Blender Version 3.6 LTS
