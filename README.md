@@ -32,6 +32,10 @@ Sampling: 1024
 
 Denoising: None
 
+Original Inspiration: Ducky 3D  
+
+Tutorial: https://www.youtube.com/watch?v=wzRTGJXwYBg&t=1395s
+
 Author: [ NEO1842 ]
 
 # Terms of Use
@@ -78,6 +82,10 @@ Blender バージョン3.4
 サンプリング数：1024
 
 ノイズ除去：なし
+
+元のインスピレーション：Ducky 3D  
+
+チュートリアル：https://www.youtube.com/watch?v=wzRTGJXwYBg&t=1395s
 
 著者: [ NEO1842 ]
 
