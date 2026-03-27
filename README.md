@@ -1,1 +1,90 @@
+<p align="center">
+---English---     Click the image to watch the animation.
+</p>
+
+<div align="center">
+
+<a href="YOUR_VIDEO_LINK">
+<img src="Cybercore/Cybercore.png" width="600">
+</a>
+
 # Blender-Cybercore
+
+A cyberpunk-style procedural scene created in Blender using Geometry Nodes and Shader Nodes.
+
+# Overview
+
+This project is a Blender scene designed to create a cybercore / cyberpunk visual style.
+
+It uses Geometry Nodes and shader techniques to generate futuristic lighting patterns and abstract digital visuals.
+
+The scene can be freely modified and used for learning Blender node workflows or creating similar visual styles.
+
+# Software Requirement
+
+Blender Version 3.6 LTS
+
+# Rendering Settings
+
+Engine: Cycles
+
+Sampling: 1024
+
+Denoising: None
+
+Author: [ NEO1842 ]
+
+# Terms of Use
+
+Feel free to modify and adapt this project for your own work!
+
+If you redistribute this file or a modified version of it, please include a link back to this repository.
+
+This project is licensed under the MIT License.
+
+---
+
+<p align="center">
+---日本語---     画像をクリックするとアニメーションが再生されます。
+</p>
+
+<p align="center">
+<a href="YOUR_VIDEO_LINK">
+<img src="Cybercore/Cybercore.png" width="600">
+</a>
+</p>
+
+# Blender サイバーコア
+
+Blenderで作成されたサイバーパンク風のプロシージャルシーンです。  
+ジオメトリノードとシェーダーノードを使用しています。
+
+# 概要
+
+このプロジェクトは、サイバーコア / サイバーパンク風のビジュアルを作るためのBlenderシーンです。
+
+ジオメトリノードとシェーダーを組み合わせて、未来的なライトパターンやデジタル表現を生成しています。
+
+Blenderのノード構成の学習や、ビジュアル制作のベースとして自由に改変して使用できます。
+
+# ソフトウェア要件
+
+Blender バージョン3.4
+
+# レンダリング設定
+
+レンダリングエンジン：Cycles
+
+サンプリング数：1024
+
+ノイズ除去：なし
+
+著者: [ NEO1842 ]
+
+# 利用規約
+
+このプロジェクトは自由に改変・使用できます。
+
+このファイル、または改変版を再配布する場合は、このリポジトリへのリンクを含めてください。
+
+このプロジェクトはMITライセンスに基づいてライセンスされています。
