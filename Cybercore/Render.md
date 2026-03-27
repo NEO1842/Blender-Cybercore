@@ -1,14 +1,14 @@
 ---English---
 
-This is a Blender scene for creating a random dot pattern using geometry nodes.
+This is a Blender scene for creating a cyber core using geometry nodes.
 
 Rendering settings: 
 
-Rendering engine: Eevee, 
+Rendering engine: Cycles, 
 
-Sampling rate: 64, 
+Sampling rate: 1024, 
 
-Denoising: None. 
+Denoising: Yes.
 
 Check out the video! 
 
@@ -16,15 +16,15 @@ https://drive.google.com/file/d/1xDqKfMyT3UUMhIONHYWXQ4dvlkph7M6v/view?usp=drive
 
 ---日本語---
 
-これは、ジオメトリノードを使用してランダムドットパターンを作成するためのBlenderシーンです。
+これは、ジオメトリノードを使用してサイバーコアを作成するためのBlenderシーンです。
 
 レンダリング設定 
 
-レンダリング エンジン: Eevee
+レンダリング エンジン: Cycles
 
-サンプリング レート: 64
+サンプリング レート: 1024
 
-ノイズ除去: なし。
+ノイズ除去: あり。
 
 動画をご確認ください！
 
