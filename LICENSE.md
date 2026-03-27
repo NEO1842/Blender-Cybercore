@@ -6,7 +6,7 @@ Copyright (c) 2026 岡村 剛
 
 ---
 This project is based on the tutorial and techniques by Ducky 3D.
-Original Inspiration: https://www.youtube.com/watch?v=h619KOsx9uY
+Original Inspiration: https://www.youtube.com/watch?v=wzRTGJXwYBg&t=1395s
 ---
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -42,7 +42,7 @@ MITライセンス
 Copyright (c) 2026 岡村 剛
 
 ---
-このプロジェクトは、Ducky 3D のチュートリアルとテクニックに基づいています。元のインスピレーション: https://www.youtube.com/watch?v=h619KOsx9uY
+このプロジェクトは、Ducky 3D のチュートリアルとテクニックに基づいています。元のインスピレーション: https://www.youtube.com/watch?v=wzRTGJXwYBg&t=1395s
 ---
 本ソフトウェアおよび関連ドキュメントファイル（以下「ソフトウェア」といいます）のコピーを入手した者は、以下の条件に従い、
 ソフトウェアを無制限に取り扱う権利（使用、複製、変更、結合、公開、配布、サブライセンス、および／または販売する権利を含みますが、これらに限定されません）と、
