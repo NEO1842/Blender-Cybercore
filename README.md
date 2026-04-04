@@ -1,3 +1,5 @@
+<h1 align="center">Blender Cybercore</h1>
+
 <p align="center">
 ---English---     Click the image to watch the animation.
 </p>
@@ -46,6 +48,8 @@ If you redistribute this file or a modified version of it, please include a link
 This project is licensed under the MIT License.
 
 ---
+
+<h1 align="center">Blender Cybercore</h1>
 
 <p align="center">
 ---日本語---     画像をクリックするとアニメーションが再生されます。
