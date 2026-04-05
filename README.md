@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<a href="https://drive.google.com/file/d/1xDqKfMyT3UUMhIONHYWXQ4dvlkph7M6v/view?usp=drive_link">
+<a href="https://drive.google.com/file/d/1LNrEGxVhDJC992Slf1LDOOGkKCYzmUI_/view?usp=drivesdk">
 <img src="Cybercore/Cybercore.png" width="600">
 </a>
 
@@ -56,7 +56,7 @@ This project is licensed under the MIT License.
 </p>
 
 <p align="center">
-<a href="https://drive.google.com/file/d/1xDqKfMyT3UUMhIONHYWXQ4dvlkph7M6v/view?usp=drive_link">
+<a href="https://drive.google.com/file/d/1LNrEGxVhDJC992Slf1LDOOGkKCYzmUI_/view?usp=drivesdk">
 <img src="Cybercore/Cybercore.png" width="600">
 </a>
 </p>
