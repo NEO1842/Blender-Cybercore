@@ -12,7 +12,7 @@ Denoising: Yes.
 
 Check out the video! 
 
-https://drive.google.com/file/d/1xDqKfMyT3UUMhIONHYWXQ4dvlkph7M6v/view?usp=drive_link
+https://drive.google.com/file/d/1LNrEGxVhDJC992Slf1LDOOGkKCYzmUI_/view?usp=drivesdk
 
 ---日本語---
 
@@ -28,6 +28,6 @@ https://drive.google.com/file/d/1xDqKfMyT3UUMhIONHYWXQ4dvlkph7M6v/view?usp=drive
 
 動画をご確認ください！
 
-https://drive.google.com/file/d/1xDqKfMyT3UUMhIONHYWXQ4dvlkph7M6v/view?usp=drive_link
+https://drive.google.com/file/d/1LNrEGxVhDJC992Slf1LDOOGkKCYzmUI_/view?usp=drivesdk
 
 ![Preview](Cybercore.png)
