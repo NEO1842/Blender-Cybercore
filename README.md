@@ -7,7 +7,7 @@
 <div align="center">
 
 <a href="https://drive.google.com/file/d/1LNrEGxVhDJC992Slf1LDOOGkKCYzmUI_/view?usp=drivesdk">
-<img src="Cybercore/Cybercore.png" width="600">
+<img src="Blender%20Cybercore/Cybercore.png" width="600">
 </a>
 
 # Blender-Cybercore
@@ -57,7 +57,7 @@ This project is licensed under the MIT License.
 
 <p align="center">
 <a href="https://drive.google.com/file/d/1LNrEGxVhDJC992Slf1LDOOGkKCYzmUI_/view?usp=drivesdk">
-<img src="Cybercore/Cybercore.png" width="600">
+<img src="Blender%20Cybercore/Cybercore.png" width="600">
 </a>
 </p>
 
