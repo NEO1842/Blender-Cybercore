@@ -1,19 +1,21 @@
----
 name: Bug Report
+description: Report a bug
 title: "[BUG] "
-labels: bug
----
+labels: ["bug"]
+body:
+  - type: textarea
+    id: what_happened
+    attributes:
+      label: 🚨 What happened?
+    validations:
+      required: true
 
-## 🚨 What happened?
-Write what went wrong here.
+  - type: textarea
+    id: expected
+    attributes:
+      label: 🎯 Expected behavior
 
-## 🎯 Expected behavior
-Write what should happen.
-
-## 📸 Screenshots / Logs
-Add logs or screenshots if possible.
-
-## 🖥 Environment
-- OS:
-- Blender version:
-- GPU:
+  - type: textarea
+    id: logs
+    attributes:
+      label: 📸 Logs / Screenshots
