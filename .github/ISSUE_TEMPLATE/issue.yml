@@ -1,6 +1,5 @@
 ---
 name: Bug Report
-about: Something is not working as expected
 title: "[BUG] "
 labels: bug
 ---
@@ -12,7 +11,7 @@ Describe the bug clearly.
 What should happen?
 
 ## 📸 Screenshots / Logs
-If possible, add screenshots or logs.
+Add screenshots or logs if possible.
 
 ## 🖥 Environment
 - OS:
