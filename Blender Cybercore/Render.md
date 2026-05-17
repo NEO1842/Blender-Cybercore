@@ -14,6 +14,10 @@ Check out the video!
 
 https://drive.google.com/file/d/1LNrEGxVhDJC992Slf1LDOOGkKCYzmUI_/view?usp=drivesdk
 
+![Preview](Cybercore.png)
+
+---
+
 ---日本語---
 
 これは、ジオメトリノードを使用してサイバーコアを作成するためのBlenderシーンです。
